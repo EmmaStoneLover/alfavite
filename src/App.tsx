@@ -8,7 +8,7 @@ function App() {
       <div>
         <p className='text-3xl font-bold'>Привет Даша</p>
    
-        <p className="italic">Это послание тебе от Миши</p>
+        <p className="italic">Это послание тебе от Миши с любовью</p>
         
         <br />
         <p className="text-2xl ">Ты пуська!)</p>
